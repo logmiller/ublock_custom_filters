@@ -1,0 +1,4 @@
+! 2021-02-18 https://www.inforum.com
+www.inforum.com##.tp-modal
+www.inforum.com##.tp-active.tp-backdrop
+www.inforum.com##.tp-modal-open:style(overflow: visible !important;)

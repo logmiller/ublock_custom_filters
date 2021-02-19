@@ -1,0 +1,4 @@
+! 2021-02-18 https://www.duluthnewstribune.com
+www.duluthnewstribune.com##.tp-modal
+www.duluthnewstribune.com##.tp-active.tp-backdrop
+www.duluthnewstribune.com##.tp-modal-open:style(overflow: visible !important;)

@@ -1,0 +1,5 @@
+! 2021-02-19 https://www.nytimes.com
+www.nytimes.com##[id="gateway-content"]
+www.nytimes.com##.css-mcm29f:style(overflow: visible !important; position: static !important;)
+www.nytimes.com##.css-1bd8bfl
+www.nytimes.com##.MAG_web_anon_all_monthly-sale-dock-MKT_anon_subscribe_dock

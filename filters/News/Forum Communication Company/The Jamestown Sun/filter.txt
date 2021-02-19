@@ -1,0 +1,4 @@
+! 2021-02-18 https://www.jamestownsun.com
+www.jamestownsun.com##.tp-modal
+www.jamestownsun.com##.tp-active.tp-backdrop
+www.jamestownsun.com##.tp-modal-open:style(overflow: visible !important;)

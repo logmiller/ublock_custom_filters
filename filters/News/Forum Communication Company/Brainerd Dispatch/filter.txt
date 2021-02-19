@@ -1,0 +1,4 @@
+! 2021-02-18 https://www.brainerddispatch.com
+www.brainerddispatch.com##.tp-modal
+www.brainerddispatch.com##.tp-active.tp-backdrop
+www.brainerddispatch.com##.tp-modal-open:style(overflow: visible !important;)

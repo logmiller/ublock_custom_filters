@@ -1,0 +1,3 @@
+! 2021-02-19 https://www.seattletimes.com
+www.seattletimes.com##.is-active.overlay.user-messaging-overlay.PaywallBar
+www.seattletimes.com/wp-content/plugins/st-user-messaging/dist/st-user-messaging-main-bundle.js

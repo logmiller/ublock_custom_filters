@@ -1,0 +1,3 @@
+! 2021-02-19 https://www.time.com
+time.com##.registration-wall.can-animate.meter-wall.component
+time.com##body:style(overflow: visible !important; position: static !important;)

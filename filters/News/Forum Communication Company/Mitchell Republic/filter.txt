@@ -1,0 +1,4 @@
+! 2021-02-18 https://www.mitchellrepublic.com
+www.mitchellrepublic.com##.tp-modal
+www.mitchellrepublic.com##.tp-active.tp-backdrop
+www.mitchellrepublic.com##.tp-modal-open:style(overflow: visible !important;)

@@ -1,0 +1,4 @@
+! 2021-02-18 https://www.wadenapj.com
+www.wadenapj.com##.tp-modal
+www.wadenapj.com##.tp-active.tp-backdrop
+www.wadenapj.com##.tp-modal-open:style(overflow: visible !important;)

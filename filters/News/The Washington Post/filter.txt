@@ -1,0 +1,5 @@
+! 2021-02-18 https://www.washingtonpost.com
+www.washingtonpost.com##[id="paywall-ui-responsive-modal"]
+www.washingtonpost.com##[id^="paywall-us"]
+www.washingtonpost.com##html,body:style(overflow: visible !important;)
+www.washingtonpost.com##body:style(position: static !important;)

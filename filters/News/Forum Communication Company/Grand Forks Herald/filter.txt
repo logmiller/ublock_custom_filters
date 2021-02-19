@@ -1,0 +1,4 @@
+! 2021-02-18 https://www.grandforksherald.com
+www.grandforksherald.com##.tp-modal
+www.grandforksherald.com##.tp-active.tp-backdrop
+www.grandforksherald.com##.tp-modal-open:style(overflow: visible !important;)

@@ -1,0 +1,4 @@
+! 2021-02-18 https://www.perhamfocus.com
+www.perhamfocus.com##.tp-modal
+www.perhamfocus.com##.tp-active.tp-backdrop
+www.perhamfocus.com##.tp-modal-open:style(overflow: visible !important;)

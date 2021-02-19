@@ -1,0 +1,4 @@
+! 2021-02-18 https://www.pinejournal.com
+www.pinejournal.com##.tp-modal
+www.pinejournal.com##.tp-active.tp-backdrop
+www.pinejournal.com##.tp-modal-open:style(overflow: visible !important;)

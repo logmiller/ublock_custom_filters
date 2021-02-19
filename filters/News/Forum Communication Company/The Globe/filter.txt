@@ -1,0 +1,4 @@
+! 2021-02-18 https://www.dglobe.com
+www.dglobe.com##.tp-modal
+www.dglobe.com##.tp-active.tp-backdrop
+www.dglobe.com##.tp-modal-open:style(overflow: visible !important;)

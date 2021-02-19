@@ -1,0 +1,4 @@
+! 2021-02-18 https://www.bemidjipioneer.com
+www.bemidjipioneer.com##.tp-modal
+www.bemidjipioneer.com##.tp-active.tp-backdrop
+www.bemidjipioneer.com##.tp-modal-open:style(overflow: visible !important;)

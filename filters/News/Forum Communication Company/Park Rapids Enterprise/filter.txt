@@ -1,0 +1,4 @@
+! 2021-02-18 https://www.parkrapidsenterprise.com
+www.parkrapidsenterprise.com##.tp-modal
+www.parkrapidsenterprise.com##.tp-active.tp-backdrop
+www.parkrapidsenterprise.com##.tp-modal-open:style(overflow: visible !important;)

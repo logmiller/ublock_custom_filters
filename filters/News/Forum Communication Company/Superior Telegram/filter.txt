@@ -1,0 +1,4 @@
+! 2021-02-18 https://www.superiortelegram.com
+www.superiortelegram.com##.tp-modal
+www.superiortelegram.com##.tp-active.tp-backdrop
+www.superiortelegram.com##.tp-modal-open:style(overflow: visible !important;)

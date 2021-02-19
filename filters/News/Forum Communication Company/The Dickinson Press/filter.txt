@@ -1,0 +1,4 @@
+! 2021-02-18 https://www.thedickinsonpress.com
+www.thedickinsonpress.com##.tp-modal
+www.thedickinsonpress.com##.tp-active.tp-backdrop
+www.thedickinsonpress.com##.tp-modal-open:style(overflow: visible !important;)
