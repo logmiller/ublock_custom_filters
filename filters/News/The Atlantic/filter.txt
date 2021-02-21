@@ -1,0 +1,4 @@
+! 2021-02-21 https://www.theatlantic.com
+www.theatlantic.com##.Paywall_root__3-sty
+www.theatlantic.com##.c-gate__container.c-nudge__container
+www.theatlantic.com##body:style(overflow: visible !important; position: static !important;)
