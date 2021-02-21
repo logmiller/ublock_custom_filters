@@ -1,4 +1,4 @@
-# uBlock Orgin: Custom Filters
+# uBlock Origin: Custom Filters
 > List of custom filters to bypass intrusive paywall modals implemented on various sites.
 
 ## What is this?
