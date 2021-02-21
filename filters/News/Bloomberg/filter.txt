@@ -1,0 +1,5 @@
+! 2021-02-21 https://www.bloomberg.com
+www.bloomberg.com##[id="newsletter-modal"]
+www.bloomberg.com##[id="banner-container"]
+www.bloomberg.com##[id="graphics-paywall-overlay"]
+www.bloomberg.com##body:style(overflow: visible !important;)
